@@ -1,0 +1,7 @@
+This is final project implementation of ECES 680 by Shangqi Wu, media forensics & security. It is implemented with Matlab 2015b. This is an independently accomplished project.
+
+There are some functions implemented for assignment 1 borrowed here. My own implementation of JPEG encoder, zigzag vector and matrix conversion and 2 *.exe files are directly copied, while my own implementation of JPEG decoder has been modified. To make sure the program works properly, please leave those files together, also the file JPG.jpeg and *.txt files.
+
+Matlab source code files are located under the sub directory of “./src/“, “application1.m”, “application 2.m” and “application3.m” are entries for programs verifying the applications described in thesis section 4.1, 4.2 and 4.3 respectively. To run that files, please open those 3 files with Matlab and click run. 
+
+Images need to be stored under sub directory of “./src/image”, if you intend to add more images, please put files under this directory. You may need to modify source code in order to test with other image files not provided under the directory. 
